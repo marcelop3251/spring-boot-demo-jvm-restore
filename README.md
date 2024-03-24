@@ -20,3 +20,7 @@ sh restore.sh
 ```
 
 With these two steps, we can successfully demonstrate the "JVM Checkpoint Restore" feature in action. If there are any issues or questions during the demonstration execution, feel free to reach out.
+
+### References
+[JVM Checkpoint Store]([url](https://docs.spring.io/spring-framework/reference/integration/checkpoint-restore.html)https://docs.spring.io/spring-framework/reference/integration/checkpoint-restore.html)
+[DEMO]([url](https://github.com/sdeleuze/spring-boot-crac-demo)https://github.com/sdeleuze/spring-boot-crac-demo)
